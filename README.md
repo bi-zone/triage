@@ -141,7 +141,7 @@ sudo ./bz_triage_nix -p=investigation,containers -o=/home/testuser
 - относительные пути для аргумента ```--yaradir``` не поддерживаются.
 
 # Cсылки
-[BI.ZONE ERD](https://bi.zone/catalog/products/edr/)
+[BI.ZONE EDR](https://bi.zone/catalog/products/edr/)
 
 [Примеры собираемых данных](event-examples)
 
