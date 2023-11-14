@@ -1,5 +1,7 @@
 # BI.ZONE Triage
-[Репозиторий](https://github.com/bi-zone/triage) содержит BI.ZONE Triage — бесплатный инструмент для сбора данных, необходимых для проведения расследования инцидентов, оценки компрометации и проактивного поиска угроз. Инструмент создан на базе решения [BI.ZONE EDR](https://bi.zone/catalog/products/edr/).
+Репозиторий содержит BI.ZONE Triage — бесплатный инструмент для сбора данных, необходимых для проведения расследования инцидентов, оценки компрометации и проактивного поиска угроз. Инструмент создан на базе решения [BI.ZONE EDR](https://bi.zone/catalog/products/edr/).
+
+Последний релиз: [BI.ZONE Triage v1.7.0.1-beta](https://github.com/bi-zone/triage/releases/tag/Latest)
 
 # Использование BI.ZONE Triage
 Запуск BI.ZONE Triage возможен только с привилегиями root.
