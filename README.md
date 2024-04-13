@@ -6,6 +6,8 @@
 # Использование BI.ZONE Triage
 Запуск BI.ZONE Triage возможен только с привилегиями root.
 
+Примеры использования данных, собираемых BI.ZONE Triage, для проведения оценки на компрометацию вы можете получить из [презентации](https://github.com/bi-zone/triage/blob/main/usage-examples/Linux_Compromise_Assessment_Practice.pdf).
+
 ## Profiles и Presets
 Для сбора данных используются Profiles и Presets.
 Каждый Profile включают в себя набор данных операционной системы, сгруппированных по смыслу. Каждый Preset включает набор определенных Profiles.
