@@ -10,7 +10,7 @@
 
 Примеры использования данных, собираемых BI.ZONE Triage, для проведения оценки на компрометацию вы можете получить из презентаций:
 - [Linux Compomise Assesment Practice](nix/usage-examples/Linux_Compromise_Assessment_Practice.pdf)
-- MacOS Compomise Assesment Practice (скоро)
+- [MacOS Compomise Assesment Practice](macos/usage-examples/MacOS_Compromise_Assessment_Practice.pdf)
 
 ## Profiles и Presets
 Для сбора данных используются Profiles и Presets.
